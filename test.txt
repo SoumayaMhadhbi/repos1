@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 72C3-C93C
+
+ R‚pertoire de C:\Users\Soumya Mhadhbi\Desktop\istqb
+
+29/07/2020  15:36    <DIR>          .
+29/07/2020  15:36    <DIR>          ..
+29/07/2020  15:36                 0 test.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  467ÿ116ÿ449ÿ792 octets libres
